@@ -28,5 +28,11 @@ echo -n "APPL????" > "$OUT_APP/Contents/PkgInfo"
 echo "==> 签名 (ad-hoc)..."
 codesign --force --deep --sign - "$OUT_APP"
 
+# 编译产物已打包完毕，清理中间构建目录，保持工程目录整洁
+if [ -d ".build" ]; then
+  echo "==> 清理中间构建目录 .build ..."
+  rm -rf ".build"
+fi
+
 echo "==> 完成：$OUT_APP"
 echo "    双击即可运行，或复制到 /Applications"
