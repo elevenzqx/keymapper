@@ -1,0 +1,61 @@
+{
+  "": {
+    "dependencies": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/KeyMapper.d",
+    "object": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/KeyMapper.o",
+    "swift-dependencies": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/master.swiftdeps"
+  },
+  "/Users/eleven/WorkBuddy/keymapper/KeyMapper/KeyMapper/AppDelegate.swift": {
+    "object": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/AppDelegate.swift.o",
+    "swiftmodule": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/AppDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/AppDelegate.swiftdeps",
+    "diagnostics": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/AppDelegate.dia"
+  },
+  "/Users/eleven/WorkBuddy/keymapper/KeyMapper/KeyMapper/AppState.swift": {
+    "object": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/AppState.swift.o",
+    "swiftmodule": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/AppState~partial.swiftmodule",
+    "swift-dependencies": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/AppState.swiftdeps",
+    "diagnostics": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/AppState.dia"
+  },
+  "/Users/eleven/WorkBuddy/keymapper/KeyMapper/KeyMapper/ConfigStore.swift": {
+    "object": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/ConfigStore.swift.o",
+    "swiftmodule": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/ConfigStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/ConfigStore.swiftdeps",
+    "diagnostics": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/ConfigStore.dia"
+  },
+  "/Users/eleven/WorkBuddy/keymapper/KeyMapper/KeyMapper/DeviceManager.swift": {
+    "object": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/DeviceManager.swift.o",
+    "swiftmodule": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/DeviceManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/DeviceManager.swiftdeps",
+    "diagnostics": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/DeviceManager.dia"
+  },
+  "/Users/eleven/WorkBuddy/keymapper/KeyMapper/KeyMapper/KeyCodeMap.swift": {
+    "object": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/KeyCodeMap.swift.o",
+    "swiftmodule": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/KeyCodeMap~partial.swiftmodule",
+    "swift-dependencies": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/KeyCodeMap.swiftdeps",
+    "diagnostics": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/KeyCodeMap.dia"
+  },
+  "/Users/eleven/WorkBuddy/keymapper/KeyMapper/KeyMapper/KeyMapperApp.swift": {
+    "object": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/KeyMapperApp.swift.o",
+    "swiftmodule": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/KeyMapperApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/KeyMapperApp.swiftdeps",
+    "diagnostics": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/KeyMapperApp.dia"
+  },
+  "/Users/eleven/WorkBuddy/keymapper/KeyMapper/KeyMapper/MappingEngine.swift": {
+    "object": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/MappingEngine.swift.o",
+    "swiftmodule": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/MappingEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/MappingEngine.swiftdeps",
+    "diagnostics": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/MappingEngine.dia"
+  },
+  "/Users/eleven/WorkBuddy/keymapper/KeyMapper/KeyMapper/Models.swift": {
+    "object": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/Models.swift.o",
+    "swiftmodule": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/Models~partial.swiftmodule",
+    "swift-dependencies": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/Models.swiftdeps",
+    "diagnostics": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/Models.dia"
+  },
+  "/Users/eleven/WorkBuddy/keymapper/KeyMapper/KeyMapper/SettingsView.swift": {
+    "object": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/SettingsView.swiftdeps",
+    "diagnostics": "/Users/eleven/WorkBuddy/keymapper/KeyMapper/.build/x86_64-apple-macosx/release/KeyMapper.build/SettingsView.dia"
+  }
+}
